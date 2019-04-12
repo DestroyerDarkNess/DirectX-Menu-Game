@@ -1,0 +1,10 @@
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\bin\Debug\D3dmenuVB.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\bin\Debug\D3dmenuVB.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\bin\Debug\D3dmenuVB.pdb
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\bin\Debug\D3dmenuVB.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.Form1.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.Resources.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.vbproj.GenerateResource.Cache
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\D3dmenuVB\D3dmenuVB\obj\Debug\D3dmenuVB.pdb
