@@ -1,6 +1,6 @@
 # DirectX-Menu-Game
 Real D3D Menu , Make in VB.NET
-
+Use keys: F1 and F2
 Based on https://github.com/agrippa1994/DX9-Overlay-API
 
 *It works only in games that work based on DirectX 9.0*
