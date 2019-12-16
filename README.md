@@ -1,4 +1,4 @@
-# Dx9 Hack Menu Game
+# Menu of Cheats for games Direcx9
 Created in VB.NET / Wrapper in vb.net / Api in C ++
 
 Show / Hide: (INSERT) | Use keys: Up, Down, Left, Righ  | Close Hack: (DELETE)
