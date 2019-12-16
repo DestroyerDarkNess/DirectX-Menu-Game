@@ -2,7 +2,7 @@
 
     Public Class Values
 
-        Public Shared ProcessGame As String = "GFXTest32.exe"
+        Public Shared ProcessGame As String = "Processname.exe"
 
 
 

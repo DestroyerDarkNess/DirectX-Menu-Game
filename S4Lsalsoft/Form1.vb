@@ -290,7 +290,7 @@ Public Class Form1
     Private Sub ShowMenu()
         DX9Overlay.SetParam("process", ProcessGame)
         GameResolutionScreen = DX9Overlay.GetScreenSpecsOverlay
-        ' Label1.Text = DX9Overlay.SetCalculationRatioOverlay(GameResolutionScreen)
+        AutoReziseMenu = DX9Overlay.SetCalculationRatioOverlay(GameResolutionScreen)
 
 
 
