@@ -1,7 +1,7 @@
-# DirectX-Menu-Game
-Real Direcx Menu, Created in VB.NET. Use Wrapper in c ++ as an API.
+# Dx9 Hack Menu Game
+Created in VB.NET / Wrapper in vb.net / Api in C ++
 
-Show / Hide: (INSERT) | Use keys: F1 and F2 | Close Hack: (DELETE)
+Show / Hide: (INSERT) | Use keys: Up, Down, Left, Righ  | Close Hack: (DELETE)
 
 Based on https://github.com/agrippa1994/DX9-Overlay-API
 
