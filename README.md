@@ -13,11 +13,11 @@ Based on https://github.com/agrippa1994/DX9-Overlay-API
 
 Image :
 
-![imagen](https://i.ibb.co/xHQ3vjr/Debug.png)
+![imagen](https://i.ibb.co/gWgXdLX/h1.png)
 
 
 
-![imagen](https://i.ibb.co/0CZfJrm/SAMP-test.png)
+![imagen](https://i.ibb.co/JvBqgpP/h2.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
