@@ -1,0 +1,11 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\bin\Debug\S4Lsalsoft.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\bin\Debug\S4Lsalsoft.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\bin\Debug\S4Lsalsoft.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\bin\Debug\S4Lsalsoft.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\S4Lsalsoft\S4Lsalsoft\obj\Debug\S4Lsalsoft.Loader.resources

@@ -1,5 +1,5 @@
 
-DirectX 9 Menu Overlay | VB.NET | CRATE BY AINCRAD
+DirectX 9 Menu Overlay | VB.NET | CRATE BY Destroyer
 
 
 Features :
@@ -13,14 +13,13 @@ Features :
 
 Open Menu : Insert
 
-Activation:
+Navigation:
 
-Hack 1 -- F1
-HACK 2 -- F2
+UP,Down,Left,Righ
 
 ----------------------------------
 
-Create by Aincrad
+Create by Destroyer
 
 **********************************
 
@@ -36,5 +35,5 @@ Api : https://agrippa1994.github.io/DX9-Overlay-API/
 
 autor : agrippa1994
 
-Github : https://github.com/agrippa1994/DX9-Overlay-API
+Github : https://github.com/agrippa1994
 
